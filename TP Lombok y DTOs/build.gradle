@@ -1,0 +1,47 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly 'org.projectlombok:lombok:1.18.24'
+    annotationProcessor 'org.projectlombok:lombok:1.18.24'
+}
+
+// Configuración para ejecutar cualquier clase main con argumentos
+application {
+    mainClass = project.hasProperty('mainClass') ? project.getProperty('mainClass') : 'TP1_Lombok_Basico.MainTP1'
+}
+
+// Tareas personalizadas para ejecutar cada main fácilmente
+task runTP1(type: JavaExec) {
+    group = "Execution"
+    description = "Runs MainTP1"
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'TP1_Lombok_Basico.MainTP1'
+}
+
+task runTP2(type: JavaExec) {
+    group = "Execution"
+    description = "Runs MainTP2"
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'TP2_Lombok_Builder.MainTP2'
+}
+
+task runTP3(type: JavaExec) {
+    group = "Execution"
+    description = "Runs MainTP3"
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'TP3_DTO_Clasico.MainTP3'
+}
+
+task runTP4(type: JavaExec) {
+    group = "Execution"
+    description = "Runs MainTP4"
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'TP4_Record.MainTP4'
+}
