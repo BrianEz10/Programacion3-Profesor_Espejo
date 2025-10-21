@@ -1,0 +1,15 @@
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/model/Medicamento.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/repository/MedicoRepository.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/repository/MedicamentoRepository.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/repository/ConsultaRepository.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/model/ObraSocial.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/repository/HistorialRepository.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/model/Paciente.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/service/ReportService.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/PracticaJpaAvanzadaApplication.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/model/Medico.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/model/HistorialClinico.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/model/Base.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/config/DummyConfig.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/model/Consulta.java
+/home/brianez/Escritorio/3 Cuatrimestre/Programacion 3/Espejo/Campus/6- JPA/Respuesta/PRACTICA 2/Medico_Paciente/src/main/java/com/ejemplo/practica/repository/PacienteRepository.java
